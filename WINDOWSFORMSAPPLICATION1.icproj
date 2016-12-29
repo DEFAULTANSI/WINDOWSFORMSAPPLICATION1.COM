@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="WINDOWSFORMSAPPLICATION1"
+	ProjectGUID="{AF9DC489-14C5-47BA-84AC-D5D4AB19654A}"
+	VCNestedProjectGUID="{F758038D-1B0E-4032-9343-44D3BDD23353}"
+	VCNestedProjectFileName="WINDOWSFORMSAPPLICATION1.vcproj">
+	<Configurations/>
+	<Files/>
+</VisualStudioProject>
